@@ -1,0 +1,30 @@
+C:\Users\User\Desktop\PatronObserverJosue\PatronObserverJosue\obj\Debug\net6.0\PatronObserverJosue.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\PatronObserverJosue\PatronObserverJosue\obj\Debug\net6.0\PatronObserverJosue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\PatronObserverJosue\PatronObserverJosue\obj\Debug\net6.0\PatronObserverJosue.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\PatronObserverJosue\PatronObserverJosue\obj\Debug\net6.0\PatronObserverJosue.AssemblyInfo.cs
+C:\Users\User\Desktop\PatronObserverJosue\PatronObserverJosue\obj\Debug\net6.0\PatronObserverJosue.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\PatronObserverJosue\PatronObserverJosue\bin\Debug\net6.0\PatronObserverJosue.exe
+C:\Users\User\Desktop\PatronObserverJosue\PatronObserverJosue\bin\Debug\net6.0\PatronObserverJosue.deps.json
+C:\Users\User\Desktop\PatronObserverJosue\PatronObserverJosue\bin\Debug\net6.0\PatronObserverJosue.runtimeconfig.json
+C:\Users\User\Desktop\PatronObserverJosue\PatronObserverJosue\bin\Debug\net6.0\PatronObserverJosue.dll
+C:\Users\User\Desktop\PatronObserverJosue\PatronObserverJosue\bin\Debug\net6.0\PatronObserverJosue.pdb
+C:\Users\User\Desktop\PatronObserverJosue\PatronObserverJosue\obj\Debug\net6.0\PatronObserverJosue.dll
+C:\Users\User\Desktop\PatronObserverJosue\PatronObserverJosue\obj\Debug\net6.0\refint\PatronObserverJosue.dll
+C:\Users\User\Desktop\PatronObserverJosue\PatronObserverJosue\obj\Debug\net6.0\PatronObserverJosue.pdb
+C:\Users\User\Desktop\PatronObserverJosue\PatronObserverJosue\obj\Debug\net6.0\PatronObserverJosue.genruntimeconfig.cache
+C:\Users\User\Desktop\PatronObserverJosue\PatronObserverJosue\obj\Debug\net6.0\ref\PatronObserverJosue.dll
+C:\Users\User\Desktop\Universisdad\Programacion II\PatronObserverJosue\PatronObserverJosue\bin\Debug\net6.0\PatronObserverJosue.exe
+C:\Users\User\Desktop\Universisdad\Programacion II\PatronObserverJosue\PatronObserverJosue\bin\Debug\net6.0\PatronObserverJosue.deps.json
+C:\Users\User\Desktop\Universisdad\Programacion II\PatronObserverJosue\PatronObserverJosue\bin\Debug\net6.0\PatronObserverJosue.runtimeconfig.json
+C:\Users\User\Desktop\Universisdad\Programacion II\PatronObserverJosue\PatronObserverJosue\bin\Debug\net6.0\PatronObserverJosue.dll
+C:\Users\User\Desktop\Universisdad\Programacion II\PatronObserverJosue\PatronObserverJosue\bin\Debug\net6.0\PatronObserverJosue.pdb
+C:\Users\User\Desktop\Universisdad\Programacion II\PatronObserverJosue\PatronObserverJosue\obj\Debug\net6.0\PatronObserverJosue.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Universisdad\Programacion II\PatronObserverJosue\PatronObserverJosue\obj\Debug\net6.0\PatronObserverJosue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Universisdad\Programacion II\PatronObserverJosue\PatronObserverJosue\obj\Debug\net6.0\PatronObserverJosue.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Universisdad\Programacion II\PatronObserverJosue\PatronObserverJosue\obj\Debug\net6.0\PatronObserverJosue.AssemblyInfo.cs
+C:\Users\User\Desktop\Universisdad\Programacion II\PatronObserverJosue\PatronObserverJosue\obj\Debug\net6.0\PatronObserverJosue.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Universisdad\Programacion II\PatronObserverJosue\PatronObserverJosue\obj\Debug\net6.0\PatronObserverJosue.dll
+C:\Users\User\Desktop\Universisdad\Programacion II\PatronObserverJosue\PatronObserverJosue\obj\Debug\net6.0\refint\PatronObserverJosue.dll
+C:\Users\User\Desktop\Universisdad\Programacion II\PatronObserverJosue\PatronObserverJosue\obj\Debug\net6.0\PatronObserverJosue.pdb
+C:\Users\User\Desktop\Universisdad\Programacion II\PatronObserverJosue\PatronObserverJosue\obj\Debug\net6.0\PatronObserverJosue.genruntimeconfig.cache
+C:\Users\User\Desktop\Universisdad\Programacion II\PatronObserverJosue\PatronObserverJosue\obj\Debug\net6.0\ref\PatronObserverJosue.dll
